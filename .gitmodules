@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "sdstudio"]
+	path = sdstudio
+	url = https://github.com/surveydown-dev/sdstudio
 [submodule "surveydown"]
 	path = surveydown
 	url = https://github.com/surveydown-dev/surveydown
